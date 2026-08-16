@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>nyansite</title>
+</head>
+<body>
+    
+    <h1>ar13m сайт</h1>
+    <hr>
+    <marquee bgcolor="#000000" scrollamount="6" loop="infinite">
+    <font face="monospace" color="#00FF00" size="4">
+        <a href="https://www.youtube.com/@a_r13m" target="_blank" style="color: #00FF00;">https://www.youtube.com/@a_r13m</a>
+    </font>
+    </marquee>
+    <p>
+        <a href="#os">мемы</a> | 
+        <a href="#games">игры</a> |
+        <a href="#sites">крутые сайты</a> |
+        <a href="#music">любимая музыка</a> 
+    </p>
+    <hr>
+    <audio src="03. Mortified by Faith.mp3" controls autoplay loop></audio> трек - Mortified by faith, включите если хотите изучать сайт под музыку
+    <h2>О сайте</h2>
+    <img src="nyan-cat-rainbow.gif" alt="Nyan Cat!" width="300" height="200"> нян кэт :3
+    <h3>ОООООчень крутой сайт который я просто для себя делаю, тут будет инфа обо мне и моих увлечениях, думаю тебе понравится :3</h3>
+    <h1>изучай разделы :3</h1>
+    <hr>
+    <h1 id="os">Мемы</h1>
+    <hr>
+    <img src="swing-tree.gif" alt="st" width="300" height="200">
+    <h3>здесь будут просто картинки мемов которые у меня на пк :3</h3>
+    <hr>
+    <h2>Тупая метаирония</h2>
+    <hr>
+    <img src="Без имени.jpeg" alt="64" width="300" height="200">
+    <hr>
+    <img src="кепвк.jpeg" alt="sir" width="300" height="200">
+    <hr>
+    <h2>Просто тупые мемы</h2>
+    <hr>
+    <img src="рп.jpeg" alt="kazahstan" width="300" height="200">
+    <hr>
+    <h2>мемы по андертейлу и просто гифки по нему</h2>
+    <hr>
+    <img src="sans-undertale.gif" alt="sir" width="300" height="200">
+    <hr>
+    <img src="dog-pixel.gif" alt="sir" width="300" height="200">
+    <hr>
+    <img src="rolling-roll.gif" alt="sir" width="300" height="200">
+    <hr>
+    <img src="lancer-breakdance-lancer.gif" alt="sir" width="300" height="200">
+    <h2>пока все, остальное это аниме мемы :3</h2>
+    <hr>
+    <h1 id="games">Игры</h1>
+    <hr>
+    <img src="h-oi-undertale.gif" alt="hoi" width="300" height="200">
+    <h3>Здесь будет моя библотека игр в стиме, расскажу о играх, так как все они бесплатны и это инди игры :3</h3>
+    <hr>
+    <img src="2026-08-15_17-31-41.png" alt="1">
+    <h3>Первая часть библотеки, ну вот так, кстати у меня 10 винда, просто инфа :3</h3>
+    <hr>
+    <ul>
+    <li><b>Team Fortress 2</b> — помоему не требует описания.</li>
+    <li><b>Breathedge</b> — ироничная приключенческая игра про выживание в открытом космосе, где нужно собирать ресурсы и крафтить инструменты при помощи изоленты.</li>
+    <li><b>Tales From Off-Peak City Vol. 1</b> — сюрреалистичный квест с элементами исследования, наполненный причудливыми персонажами, тайнами и джазовым саундтреком от Cosmo D.</li>
+    <li><b>The Norwood Suite</b> — приключенческая инди-игра от первого лица, действие которой разворачивается в загадочном отеле, наполненном безумным искусством.</li>
+    <li><b>Emily is Away</b> — интерактивная история и симулятор текстового чата из 2000-х годов, рассказывающий о дружбе в эпоху раннего интернета.</li>
+    <li><b>Coloring Pixels</b> — медитативная и расслабляющая пиксельная раскраска, где нужно заполнять пронумерованные ячейки цветами под спокойную музыку.</li>
+    <li><b>Sky: Children of the Light</b> — миролюбивая социальная инди-игра про исследование сказочных облачных королевств и возвращение звезд на созвездия.</li>
+    <li><b>Muck</b> — динамичный survival-рогалик от первого лица, в котором нужно собирать ресурсы днем и отбиваться от волн монстров ночью.</li>
+</ul>
+<ul>
+    <li><b>Supermarket Together</b> — кооперативный симулятор управления супермаркетом, где нужно закупать товары, расставлять их по полкам и ловить воришек вместе с друзьями.</li>
+    <li><b>Warframe</b> — динамичный кооперативный экшен в научно-фантастическом сеттинге, где игроки управляют древними воинами в высокотехнологичных экзокостюмах.</li>
+    <li><b>Bongo Cat</b> — забавная интерактивная программа-игрушка, в которой анимированный пиксельный кот весело стучит по лапкам или клавиатуре в такт твоим нажатиям.</li>
+    <li><b>Doki Doki Literature Club!</b> — психологический хоррор, искусно замаскированный под милую визуальную новеллу о школьном литературном клубе.</li>
+    <li><b>Grimm's Hollow</b> — короткая и очень душевная пиксельная ролевая игра про загробный мир, призраков и поиски пропавшего брата.</li>
+    <li><b>Helltaker</b> — стильная и короткая головоломка с отличным саундтреком, где нужно проходить опасные уровни ради знакомства с демонессами.</li>
+    <li><b>Sven Co-op</b> — классический кооперативный шутер на движке первой Half-Life, где игроки вместе проходят запутанные карты и отбиваются от монстров.</li>
+    <li><b>Marie's Room</b> — короткая исследовательская история-воспоминание, где нужно изучать комнату и читать дневник, чтобы раскрыть тайну прошлого.</li>
+</ul>
+<hr>
+<img src="image.png" alt="1">
+<h3>Вторая</h3>
+<hr>
+<ul>
+    <li><b>Samorost 1</b> — культовая, короткая и очень атмосферная психоделическая квест-сказка от Amanita Design с уникальным визуальным стилем.</li>
+    <li><b>Simutrans</b> — глубокий олдскульный симулятор транспортной сети с открытым исходным кодом, где нужно строить дороги, рельсы и развивать логистику.</li>
+    <li><b>We Become What We Behold</b> — гениальная пятиминутная игра-симулятор медиа, показывающая, как социальные сети и новости могут влиять на общество.</li>
+    <li><b>The Sandbox Evolution</b> — пиксельная 2D-песочница, где можно экспериментировать с законами физики, элементами и создавать свои собственные миры.</li>
+    <li><b>TrackMania Nations Forever</b> — легендарная бесплатная аркадная гонка с безумными трассами, петлями, прыжками и упором на идеальное время прохождения.</li>
+    <li><b>Vecter</b> — скоростной, неоновый бесплатный раннер в киберпанк-стиле, где нужно уворачиваться от препятствий под динамичную музыку.</li>
+    <li><b>You Have to Win the Game</b> — хардкорный ретро-платформер, стилизованный под старые компьютерные игры из 1980-х годов со сглаживанием экрана CRT.</li>
+    <li><b>The Looker</b> — умная и забавная игра-головоломка, которая является чистой иронией и пародией на известную игру The Witness.</li>
+</ul>
+<hr>
+<h3>вроде все в играх</h3>
+<hr>
+<h1 id="sites">Крутые сайты</h1>
+<hr>
+<h3>Здесь будут крутые сайты для умиратворения :3</h3>
+<hr>
+<ul>
+    <li><b><a href="https://cat-bounce.com">Cat-bounce</a></b> — Сайт о прыгающих котятах.</li>
+    <li><b><a href="https://screamintothevoid.com/">screamintothevoid.com</a></b> — здесь можно написать своипереживания и кинуть их в пустоту.</li>
+    <li><b><a href="https://puginarug.com/">puginarug</a></b> — просто смотрите на мопса.</li>
+    <li><b><a href="https://earthcam.com">earthcam.com</a></b> — Огромная сеть веб-камер, транслирующая умиротворяющие пейзажи в реальном времени.</li>
+    <li><b><a href="https://www.skylinewebcams.com/">skylinewebcams</a></b> —  Живые трансляции красивейших пляжей, площадей и вулканов мира..</li>
+</ul>
+<hr>
+<h1 id="music">Крутая музыка</h1>
+<hr>
+<audio src="Undertale - 087. Hopes and Dreams.mp3" controls ></audio>Hopes and dreams - undertale
+<hr>
+<audio src="Undertale - 012. Home.mp3" controls ></audio>home - undertale
+<hr>
+<audio src="Undertale - 013. Home (Music Box).mp3" controls ></audio>home(musical box) - undertale
+<hr>
+<audio src="Field of Hopes and Dreams.mp3" controls ></audio>Field of Hopes and Dreams - deltarune
+<hr>
+<audio src="Hip Shop.mp3" controls ></audio>Hip Shop - deltarune
+<hr>
+<audio src="Vs. Lancer.mp3" controls ></audio>Vs. Lancer - deltarune
+<hr>
+<audio src="WELCOME TO THE CITY.mp3" controls ></audio>WELCOME TO THE CITY - deltarune
+<hr>
+<audio src="You Can Always Come Home.mp3" controls ></audio>You Can Always Come Home - deltarune
+<hr>
+<h1>Пока все, думаю вам понравилось</h1>
+    <marquee bgcolor="#000000" scrollamount="6" loop="infinite">
+    <font face="monospace" color="#00FF00" size="4">
+        пока :3
+    </font>
+    </marquee>
+</body>
+</html>
